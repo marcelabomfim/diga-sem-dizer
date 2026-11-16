@@ -1,0 +1,16 @@
+{
+  "name": "Diga Sem Dizer! — O jogo das palavras proibidas",
+  "short_name": "Diga Sem Dizer",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#201638",
+  "theme_color": "#30254f",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
